@@ -1,5 +1,5 @@
 # randomcolor
-![modal](https://github.com/javadashtiani/modal/assets/134012615/3a6b31f7-c155-4073-a86b-95e7a7f8632e)
+![randomcolor](https://github.com/javadashtiani/randomcolor/assets/134012615/20bf1613-f917-41eb-816b-55c0cb8e04b6)
 - 🔗 https://javadashtiani.github.io/randomcolor/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
